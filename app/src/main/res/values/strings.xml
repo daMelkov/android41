@@ -6,4 +6,6 @@
     <string name="mobile_phone">С мобильного телефона</string>
     <string name="by_cash">Наличными по адресу</string>
     <string name="ok">Готово</string>
+    <string name="payment_fail">Укажите параметры оплаты!</string>
+    <string name="payment_complete">Оплата на сумму %s проведена (%s).</string>
 </resources>
